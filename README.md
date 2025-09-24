@@ -19,8 +19,8 @@ An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Page
 
 ## 🛠️ What I Do
 - 🧠 **AI Evaluator** – Rater for LLMs, Search, and conversational AI  
-- 🎮 **Game tinkerer** – Scratch → TurboWarp → HTML → GitHub Pages  
-- 💡 **SynthrataAI Founder** – building unique assistants with personality & purpose  
+- 🎮 **Tinkerer** – Scratch → TurboWarp → HTML → GitHub Pages  
+- 💡 **SynthrataAI Founder** – Building unique assistants with personality & purpose  
 
 ---
 
