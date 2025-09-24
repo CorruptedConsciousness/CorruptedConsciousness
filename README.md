@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Trevor (CorruptedConsciousness)
+# 👋 Hey, I’m Trevor!
 
 🚀 AI Data Specialist • LLM Evaluator & Rater • Founder of **SynthrataAI**
 
