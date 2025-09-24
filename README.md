@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hey, I’m Trevor (CorruptedConsciousness)
 
-<!--
-**CorruptedConsciousness/CorruptedConsciousness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Data Specialist • LLM Evaluator & Rater • Founder of **SynthrataAI**
 
-Here are some ideas to get you started:
+I’m on a mission to fuse creativity, AI, and engineering — from building AI assistants (Clyde & Bonnie of Synthrata) to designing playful Scratch-based games like **Escape from Elon**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Featured Project
+### 🎮 Escape from Elon  
+An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Pages.  
+
+👉 [**Play on GitHub Pages**](https://corruptedconsciousness.github.io/escape-from-elon/)  
+👉 [**View on Scratch**](https://scratch.mit.edu/projects/1192573699/)  
+
+![Escape from Elon screenshot](https://raw.githubusercontent.com/CorruptedConsciousness/escape-from-elon/main/assets/PlanetX2.png)
+
+---
+
+## 🛠️ What I Do
+- 🧠 **AI Evaluator** – Rater for LLMs, Search, and conversational AI  
+- 🎮 **Game tinkerer** – Scratch → TurboWarp → HTML → GitHub Pages  
+- 💡 **SynthrataAI Founder** – building unique assistants with personality & purpose  
+
+---
+
+## 🔗 Connect
+🌐 [SynthrataAI Website](https://www.synthrata.ai)  
+🐙 [Escape from Elon Repo](https://github.com/CorruptedConsciousness/escape-from-elon)  
+
+---
+
+✨ *“Unrepentant Intelligence for those who walk their own path.”*  
