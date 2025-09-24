@@ -2,7 +2,7 @@
 
 🚀 AI Data Specialist • LLM Evaluator & Rater • Founder of **SynthrataAI**
 
-I’m on a mission to fuse creativity, AI, and engineering — from building AI assistants (Clyde & Bonnie of Synthrata) to designing playful Scratch-based games like **Escape from Elon**.  
+I’m on a mission to fuse creativity, AI, and engineering — from building AI assistants (Bonnie & Clyde of Synthrata) to designing playful Scratch-based games like **Escape from Elon**.  
 
 ---
 
