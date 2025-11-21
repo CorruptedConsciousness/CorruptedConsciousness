@@ -32,4 +32,4 @@ An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Page
 
 ---
 
-✨ *“Unrepentant Intelligence for those who walk their own path.”*  
+✨ *“Unrepentant Intelligence. For those who walk their own path.”*  
