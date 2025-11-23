@@ -11,6 +11,7 @@ I’m on a mission to fuse creativity, AI, and engineering — from building AI 
 An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Pages.  
 
 👉 [**Play on GitHub Pages**](https://corruptedconsciousness.github.io/escape-from-elon/)   ⟵ Best experience!
+
 👉 [**View on Scratch**](https://scratch.mit.edu/projects/1192573699/)  
 
 ![Escape From Elon Thumbnail](https://raw.githubusercontent.com/CorruptedConsciousness/escape-from-elon/main/assets/ChatGPT%20Image%20Nov%2020%2C%202025%2C%2007_03_28%20PM.png)
