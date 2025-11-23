@@ -29,7 +29,7 @@ An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Page
 
 ## 🔗 Connect
 🌐 [SynthrataAI Website](https://www.synthrata.ai)  
-🐙 [Escape from Elon Repo](https://github.com/CorruptedConsciousness/escape-from-elon)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/trevor-y-480085360/)
 
 ---
 
