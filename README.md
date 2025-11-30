@@ -22,7 +22,7 @@ An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Page
 
 ## 🛠️ What I Do
 - 🧠 **AI Evaluator** – Rater for LLMs, Search, and conversational AI.  
-- 🎮 **Maker/Tinkerer** – Scratch → TurboWarp → HTML → GitHub Pages → Raspberry Pi→ MagicMirror → 3D Printing.  
+- 🎮 **Maker/Tinkerer** – Scratch → TurboWarp → HTML → GitHub Pages → Raspberry Pi→ MagicMirror → 3D Printed.  
 - 💡 **SynthrataAI Founder** – Building unique assistants with personality & purpose.  
 
 ---
