@@ -1,9 +1,26 @@
-# 👋 Hey, I’m Trevor!
+# Hi, I'm Trevor 👋
 
-🚀 AI Data Specialist • LLM Evaluator & Rater • Founder of **SynthrataAI**
+I'm an embedded systems and AI enthusiast who enjoys building real-world projects using Raspberry Pi, ESP32, Python, and local AI.
 
-I’m on a mission to fuse creativity, AI, and engineering — from building AI assistants (Clyde & Bonnie of Synthrata) to developing MagicMirror interfaces and designing playful Scratch-based games like Escape from Elon.
+## Current Projects
 
+- 🪞 Magic Mirror AI
+- 📻 ESP32 Bluetooth Stereo Adapter
+- 🤖 Pocket AI Pet (in development)
+
+## Technologies
+
+- Python
+- C++
+- Arduino
+- ESP32
+- Raspberry Pi
+- Linux
+- HTML/CSS/JavaScript
+- Git & GitHub
+- Local AI (Whisper, Piper, Ollama)
+
+Always building. Always learning.
 ---
 
 ## 🌟 Featured Project
