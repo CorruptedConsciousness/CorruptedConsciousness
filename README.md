@@ -27,7 +27,7 @@ Always building. Always learning.
 ### 🎮 Escape from Elon  
 An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Pages.  
 
-👉 [**Play on GitHub Pages**](https://corruptedconsciousness.github.io/escape-from-elon/)   ⟵ Best experience!!
+👉 [**Play on GitHub Pages**](https://corruptedconsciousness.github.io/Escape-From-Elon/)   ⟵ Best experience!!
 
 👉 [**View on Scratch**](https://scratch.mit.edu/projects/1192573699/)  
 
