@@ -46,7 +46,7 @@ An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Page
 ---
 
 ## 🔗 Connect
-🌐 [SynthrataAI Website](https://www.synthrata.ai)  
+🌐 [Cedar River Sanctuary](https://www.cedarriversanctuary.org)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/trevor-y-480085360/)
 
 ---
