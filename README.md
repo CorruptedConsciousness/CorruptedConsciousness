@@ -5,7 +5,7 @@ I'm an embedded systems and AI enthusiast who enjoys building real-world project
 ## Current Projects
 
 - 🪞 Magic Mirror AI (in final stage)
-- 📻 ESP32 Bluetooth Stereo Adapter
+- 📻 ESP32 Bluetooth Stereo Adapter (completed)
 - 🤖 Pocket AI Pet (in development)
 - 🐦 Cedar River Sanctuary (in development)
 
