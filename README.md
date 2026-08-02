@@ -40,7 +40,7 @@ An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Page
 
 ## 🛠️ What I Do
 - 🧠 **AI Evaluator** – Rater for LLMs, Search, and conversational AI.  
-- 🎮 **Maker/Tinkerer** – Scratch → TurboWarp → HTML → GitHub Pages → Raspberry Pi→ MagicMirror → 3D Printed.  
+- 🛠️ **Maker/Builder** — Idea → Prototype → Code → Hardware → GitHub → Real-World Projects.  
 - 🐦 **Cedar River Sanctuary** — Wildlife observation, environmental monitoring & open data. 
 
 ---
