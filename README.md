@@ -46,8 +46,10 @@ An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Page
 ---
 
 ## 🔗 Connect
-🌐 [Cedar River Sanctuary](https://www.cedarriversanctuary.org/)  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/trevor-y-480085360/)
+
+🐦 [Cedar River Sanctuary](https://www.cedarriversanctuary.org/)
+
+💼 [LinkedIn Profile](https://www.linkedin.com/in/trevor-y-480085360/)
 
 ---
 
