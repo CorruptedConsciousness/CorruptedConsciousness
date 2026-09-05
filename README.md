@@ -51,6 +51,3 @@ An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Page
 
 💼 [LinkedIn Profile](https://www.linkedin.com/in/trevor-y-480085360/)
 
----
-
-✨ *“Unrepentant Intelligence. For those who walk their own path.”*  
