@@ -6,7 +6,7 @@ I'm an embedded systems and AI enthusiast who enjoys building real-world project
 
 - 🐦 Cedar River Sanctuary *(In Development)*
 - 🪞 Magic Mirror AI *(Final Stages)*
-- 📻 ESP32 Bluetooth Stereo Adapter *(Completed)*
+- 📻 ESP32 Bluetooth Stereo Adapter *(Troubleshooting Design)*
 - 🌐🕒 ESP32-Based CYD Wi-Fi NTP Touchscreen Clock *(Awaiting Final Assembly)*
 
 ## Technologies
