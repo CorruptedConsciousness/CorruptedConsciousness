@@ -4,7 +4,7 @@ I'm an embedded systems and AI enthusiast who enjoys building real-world project
 
 ## Current Projects
 
-- 🐦 Cedar River Sanctuary *(In Development)*
+- 🐦 Deepwoods Data Project *(In Development)*
 - 🪞 Magic Mirror AI *(Final Stages)*
 - 📻 ESP32 Bluetooth Stereo Adapter *(Currently Troubleshooting)*
 - 🌐🕒 CYD Clock *(Awaiting Final Assembly)*
