@@ -41,7 +41,7 @@ An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Page
 ## 🛠️ What I Do
 - 🧠 **AI Evaluator** – Rater for LLMs, Search, and conversational AI.  
 - 🛠️ **Maker/Builder** — Idea → Prototype → Code → Hardware → GitHub → Real-World Projects.  
-- 🐦 **Cedar River Sanctuary** — Wildlife observation, environmental monitoring & open data. 
+- 🐦 **Deepwoods Data Project** — Wildlife observation, environmental monitoring & open data. 
 
 ---
 
