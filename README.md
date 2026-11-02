@@ -47,7 +47,7 @@ An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Page
 
 ## 🔗 Connect
 
-🐦 [Cedar River Sanctuary](https://cedarriversanctuary.org/)
+🐦 [Deepwoods Data Project](https://deepwoodsdataproject.org/)
 
 💼 [LinkedIn Profile](https://www.linkedin.com/in/trevor-y-480085360/)
 
