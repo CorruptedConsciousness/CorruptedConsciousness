@@ -6,8 +6,8 @@ I'm an embedded systems and AI enthusiast who enjoys building real-world project
 
 - 🐦 Deepwoods Data Project *(In Development)*
 - 🪞 Magic Mirror AI *(Final Stages)*
-- 📻 ESP32 Bluetooth Stereo Adapter *(Currently Troubleshooting)*
-- 🌐🕒 CYD Clock *(Awaiting Final Assembly)*
+- 📻 D.I.Y ESP32 Bluetooth Stereo Adapter *(Currently Troubleshooting)*
+- 🌐🕒 CYD Clock *(Completed!)*
 
 ## Technologies
 
