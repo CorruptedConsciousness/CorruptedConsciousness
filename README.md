@@ -28,7 +28,7 @@ I'm particularly interested in taking projects through the entire development pr
 
 ## 🛠️ Technologies & Tools
 
-**Programming:** Python · C++ (Learning) · HTML · CSS · JavaScript
+**Programming:** Python · C++ · HTML · CSS · JavaScript
 
 **Development:** VS Code · JupyterLab · Git · GitHub · Linux · PowerShell
 
