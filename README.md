@@ -50,7 +50,7 @@ The system is being developed around real camera observations, Python-based proc
 
 🌲 [Deepwoods Data Project](https://deepwoodsdataproject.org/)
 
-## 🌟 Featured Project
+## 🌟 Featured Projects
 
 ### 🎮 Escape from Elon
 
