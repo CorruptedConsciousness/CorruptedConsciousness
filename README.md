@@ -8,7 +8,7 @@ I'm an embedded systems and AI enthusiast who enjoys building real-world project
 - 🪞 Magic Mirror AI *(Final Stages)*
 - 📻 D.I.Y ESP32 Bluetooth Stereo Adapter *(Currently Troubleshooting)*
 - 🌐🕒 CYD Clock *(Completed!)*
-- - 🟩 Rain Drops Binary Rain Screensaver *(Completed)*
+- 🟩 Rain Drops Binary Rain Screensaver *(Completed)*
 
 ## Technologies
 
