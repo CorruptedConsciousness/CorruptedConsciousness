@@ -62,6 +62,18 @@ An arcade-style Scratch game packaged with TurboWarp and deployed on GitHub Page
 
 ![Escape From Elon Thumbnail](https://raw.githubusercontent.com/CorruptedConsciousness/escape-from-elon/main/assets/ChatGPT%20Image%20Nov%2020%2C%202025%2C%2007_03_28%20PM.png)
 
+### 🟩 Rain Drops — Binary Rain Screensaver
+
+A free, open-source Windows screensaver built with Python and Tkinter. Features cascading green binary digits, randomized falling speeds, bright white leading digits, and fading trails.
+
+**Completed & Released — v1.0.0**
+
+👉 [**Download Rain Drops FREE**](https://github.com/CorruptedConsciousness/rain_drops/releases/tag/v1.0.0)
+
+👉 [**View Source Code on GitHub**](https://github.com/CorruptedConsciousness/rain_drops)
+
+![Rain Drops Binary Rain Screensaver](https://raw.githubusercontent.com/CorruptedConsciousness/rain_drops/main/screenshot/image.png)
+
 ## 💼 Background
 
 - **AI Evaluation & Quality Assurance** — Experience evaluating and reviewing LLM-generated responses, conversational AI, and search-related tasks, including peer review and quality assurance responsibilities.
